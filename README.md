@@ -8,7 +8,7 @@ The goal of this project is to validate a form using name, email, and password.
 - Programming Language: JavaScript
 - Version Control System: Git, Github
 
-##Deployed with
+## Deployed with
 - This project was deployed using heroku. To be able to deploy it I had to include php code with one line of code. feel free to take a look at it
 
 ## Getting Started
