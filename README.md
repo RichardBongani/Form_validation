@@ -8,6 +8,9 @@ The goal of this project is to validate a form using name, email, and password.
 - Programming Language: JavaScript
 - Version Control System: Git, Github
 
+##Deployed with
+- This project was deployed using heroku. To be able to deploy it I had to include php code with one line of code. feel free to take a look at it
+
 ## Getting Started
 Firstly check by clicking submit to test what happens when you do not fill all any inputs, 2nd: fill one input and click submit to see the outcome, 3rd enter an invalid email and then lasly enter none matching passwords. Last fill in the correct and required information and see the outcome of this form.
 
