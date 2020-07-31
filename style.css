@@ -1,0 +1,33 @@
+
+* {
+    font-family: 'Dosis', sans-serif;
+}
+
+/* Navigation */
+.navbar-nav .nav-item .nav-link:hover {
+    border-bottom: 2px solid antiquewhite;
+}
+
+/* Mobile navigation */
+@media (max-with: 786px){
+    .navbar {
+        z-index: 9999;
+    }
+
+    .navbar-nav .nav-item .nav-link:hover {
+        border-bottom: 2px solid antiquewhite;
+    }
+}
+
+
+
+/* style for the css */
+.myform .details input{
+    width: 20em;
+}
+
+.bg-color {
+    background-color: antiquewhite;
+    height: 100vh;
+}
+
