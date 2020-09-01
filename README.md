@@ -9,21 +9,23 @@ The goal of this project is to validate a form using name, email, and password.
 - Version Control System: Git, Github
 
 ## Deployed with
-- This project was deployed using heroku. To be able to deploy it I had to include php code with one line of code. feel free to take a look at it
+- This project was deployed using heroku.
 
-## Getting Started
+## Visit the Site
+- https://formvalidationbr.herokuapp.com/
+
+## How it works Started
 Firstly check by clicking submit to test what happens when you do not fill all any inputs, 2nd: fill one input and click submit to see the outcome, 3rd enter an invalid email and then lasly enter none matching passwords. Last fill in the correct and required information and see the outcome of this form.
 
 ### Prerequisites
 javascript (Other versions probably will work just fine, but it's not recommended)
 
 ### Setup
-To clone this project using https: git clone https://github.com/RichardBongani/Form_validation.git
+To clone this project using https: ```git clone https://github.com/RichardBongani/Form_validation.git```
 
 
 ## Authors
 
-**Author1**
   Richard Phala
 - Github: [@githubhandle](https://github.com/RichardBongani)
 - Twitter: [@twitterhandle](https://github.com/Richard15391169)
